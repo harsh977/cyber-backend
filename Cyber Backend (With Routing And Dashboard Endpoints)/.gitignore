@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# VSCode
+.vscode/
+
+# Environment variables
+.env
+
+# Python package artifacts
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# PyInstaller
+*.spec
+
+# MyPy
+.mypy_cache/
+
+# Test output
+htmlcov/
+coverage.xml
+.pytest_cache/
+
+# SQLite or database files
+*.db
+*.sqlite3
+
+# Mac and Linux
+.DS_Store
+
+# Node frontend (if you have one in the same repo)
+node_modules/
